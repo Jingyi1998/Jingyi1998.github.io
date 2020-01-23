@@ -1,6 +1,6 @@
 ## Nice to meet Ya!
 
-Welcome to [Jingyi's area](https://jingyi1998.github.io/)!
+Welcome to Jingyi's area!!!
 
 ### About me
 
