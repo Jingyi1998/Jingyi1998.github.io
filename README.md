@@ -1,37 +1,19 @@
 ## Nice to meet Ya!
 
-You can use the [editor on GitHub](https://github.com/Jingyi1998/Jingyi1998.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to [Jingyi's area](https://jingyi1998.github.io/)!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About me
 
-### Markdown
+My name is Jingyi Wan. I am a Chinese girl who is now a final year student studying in UK at Queen Mary, University of London.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I come from the Joint Programme of Beijing University of Posts and Telecommunications and my major is Telecommunications Engineering with Management. My most research interests are about using behviour analysis such as gaze, facial expression, speech, etc. to help with medical diagnosis and treatment.
 
-```markdown
-Syntax highlighted code block
-
-# About me
-## About this webpage
 ### Contact
 
-- Bulleted
-- List
+If you'd like to have a chat about this area or any other things even personal talking, please feel free to contact me by [email](j.wan@se16.qmul.ac.uk).
 
-1. Numbered
-2. List
+### About this area
 
-**Bold** and _Italic_ and `Code` text
+This webpage is mostly used to record my studying on deep learning area with reference book Deep learning, MIT Press 2016. I'd really like to share this page with people who are also new to this field. I'll try to keep the point as simple as possible so everyone can get them as quick as possible. 
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jingyi1998/Jingyi1998.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+As a novice, I may not fully understand all the knowledge, so there may exist incorrect statements. If you find anything wrong, please feel free to contact me by email and I'll revise that so there is no one else get confused. :)
