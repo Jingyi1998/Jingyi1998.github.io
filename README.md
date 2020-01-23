@@ -10,7 +10,7 @@ I come from the Joint Programme of Beijing University of Posts and Telecommunica
 
 ### Contact
 
-If you'd like to have a chat about this area or any other things even personal talking, please feel free to contact me by [email](j.wan@se16.qmul.ac.uk).
+If you'd like to have a chat about this area or any other things even personal talking, please feel free to contact me by email [j.wan@se16.qmul.ac.uk](j.wan@se16.qmul.ac.uk).
 
 ### About this area
 
